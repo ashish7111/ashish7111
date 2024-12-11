@@ -1,6 +1,6 @@
-# 👋 Hi, I'm [Your Name]!
+# 👋 Hi, I'm ASHISH!
  
-Welcome to my GitHub profile! I'm a passionate [Your Role or Field] who loves working on innovative projects and exploring new technologies.
+Welcome to my GitHub profile! I'm a passionate Data Analyst who loves working on innovative projects and exploring new technologies.
  
 ---
  
