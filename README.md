@@ -5,7 +5,7 @@ Welcome to my GitHub profile! I'm a passionate Data Analyst who loves working on
 ---
  
 ## 🌟 About Me
-- 🔭 I’m currently working on **AIML Bootcamp(#)**
+- 🔭 I’m currently working on **BUSINESS ANALYTICS BOOTCAMP(#)**
 - 🌱 Learning **[Skill or Technology]**
 - 💬 Ask me about **[Your Area of Expertise]**
 - 📫 Reach me at: **[Your Email]**
