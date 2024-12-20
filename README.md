@@ -37,7 +37,7 @@ Here are some of my best works:
 ## 📊 GitHub Stats
  
 ### 🔥 Streaks & Contributions
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YourUsername&theme=dark)
+![GitHub Streak]([https://github-readme-streak-stats.herokuapp.com/?user=YourUsername&theme=dark](https://github.com/ashish7111?tab=overview))
  
 ### 🌟 Activity Graph
 ![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=YourUsername&theme=dracula)
