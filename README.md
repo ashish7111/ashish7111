@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I'm a passionate Data Analyst who loves working on
 - 🔭 I’m currently working on **BUSINESS ANALYTICS BOOTCAMP(#)**
 - 🌱 Learning **[Skill or Technology]**
 - 💬 Ask me about **[Your Area of Expertise]**
-- 📫 Reach me at: **[Your Email]**
+- 📫 Reach me at: **[ashish.pandey7111@gmail.com]**
 - ⚡ Fun fact: **[Something Interesting About You]**
  
 ---
@@ -17,7 +17,6 @@ Welcome to my GitHub profile! I'm a passionate Data Analyst who loves working on
 ![Python](https://img.shields.io/badge/Python-3.9-blue)
 ![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow)
 ![Docker](https://img.shields.io/badge/Docker-Containerization-blue)
-![React](https://img.shields.io/badge/React-Framework-lightblue)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-DeepLearning-orange)
  
 ---
