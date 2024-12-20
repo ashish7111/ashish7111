@@ -6,10 +6,10 @@ Welcome to my GitHub profile! I'm a passionate Data Analyst who loves working on
  
 ## 🌟 About Me
 - 🔭 I’m currently working on **BUSINESS ANALYTICS BOOTCAMP(#)**
-- 🌱 Learning **[Skill or Technology]**
+- 🌱 Learning **[python, MySQL, Power BI, Tableau, AWS]**
 - 💬 Ask me about **[Your Area of Expertise]**
 - 📫 Reach me at: **[ashish.pandey7111@gmail.com]**
-- ⚡ Fun fact: **[Something Interesting About You]**
+
  
 ---
  
